@@ -65,7 +65,18 @@ The system successfully classifies the simulated packet.
 
 ### 3. AI Analyst Explanation (Groq)
 Groq AI breaks down the technical decision into simple language.
- ![Image Alt]([image_url](https://github.com/Yash-byte-hub/AI-Based-Network-Intrusion-Detection-System/blob/e97b61ee52f0172ac64908244919738d4c182dcd/model_traininf_complete.png))
+ ![Image Alt](https://github.com/Yash-byte-hub/AI-Based-Network-Intrusion-Detection-System/blob/d7a9d501b5188035387830854ec4aeadd8cc8944/ai_explanation.png)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
