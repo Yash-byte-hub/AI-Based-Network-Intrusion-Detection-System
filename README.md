@@ -58,10 +58,11 @@ This project utilizes a subset of the **CIC-IDS2017 dataset**, specifically the 
 
 ### 1. Model Training
 The model is trained using the CIC-IDS dataset, achieving high accuracy in distinguishing traffic patterns.
- ![Image Alt](https://github.com/Yash-byte-hub/AI-Based-Network-Intrusion-Detection-System/blob/d55a8b66468f76ad58faefc42210db3aedc50da9/model_traininf_complete.png)
+  ![Image Alt](https://github.com/Yash-byte-hub/AI-Based-Network-Intrusion-Detection-System/blob/edeaa8712fecbac70300c76046bb6a7fba8f963a/model_traininf_complete_with_100%25_accuracy.png)
 
 ### 2. Threat Detection
 The system successfully classifies the simulated packet.
+ ![Image Alt](https://github.com/Yash-byte-hub/AI-Based-Network-Intrusion-Detection-System/blob/edeaa8712fecbac70300c76046bb6a7fba8f963a/random_packet_captured.png)
 
 ### 3. AI Analyst Explanation (Groq)
 Groq AI breaks down the technical decision into simple language.
